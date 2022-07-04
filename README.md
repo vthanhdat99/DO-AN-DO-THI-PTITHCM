@@ -27,10 +27,13 @@ II CÁCH DÙNG.
 3. Nếu X > 0: tức là tạo cạnh có trọng số X.
 -Thực hiện nhiệm vụ.
 1. Thao tác xóa, lưu, mở file: di chuột vào ô FILE (góc trái trên cùng màn hình) -> chọn lệnh tương ứng.
+
 ![image](https://user-images.githubusercontent.com/108580228/177124533-1088b4b4-73ea-4c28-96a9-b9d8090c059a.png)
 
 2. Demo các module: di chuột vào ô MENU -> chọn module tương ứng cần demo.
+
  ![image](https://user-images.githubusercontent.com/108580228/177124614-1ae42473-752c-428e-8fbb-7b5f9182f8a4.png)
+
 
 
 video demo https://www.youtube.com/watch?v=uyx7hBaScrY
