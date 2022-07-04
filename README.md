@@ -1,5 +1,5 @@
 
-I ĐỀ BÀI.
+I. ĐỀ BÀI.
 
 Đồ thị: Viết chương trình cho phép:
 
@@ -17,7 +17,7 @@ I ĐỀ BÀI.
 
 7- Demo thuật toán Topo Sort.
 
-II CÁCH DÙNG.
+II. CÁCH DÙNG.
 1. Thêm đỉnh: bấm chuột trái 2 lần -> nhập tên đỉnh.
 
 2. Thêm cạnh: bấm chuột phải tại đỉnh cần bắt đầu -> chọn TAO CANH -> di chuột đến đỉnh kết thúc và bấm chuột trái -> nhập trọng số X.
