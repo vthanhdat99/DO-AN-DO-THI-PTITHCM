@@ -18,19 +18,20 @@ I ĐỀ BÀI.
 7- Demo thuật toán Topo Sort.
 
 II CÁCH DÙNG.
--Thêm đỉnh: bấm chuột trái 2 lần -> nhập tên đỉnh.
+1. Thêm đỉnh: bấm chuột trái 2 lần -> nhập tên đỉnh.
 
--Thêm cạnh: bấm chuột phải tại đỉnh cần bắt đầu -> chọn TAO CANH -> di chuột đến đỉnh kết thúc và bấm chuột trái -> nhập trọng số X.
+2. Thêm cạnh: bấm chuột phải tại đỉnh cần bắt đầu -> chọn TAO CANH -> di chuột đến đỉnh kết thúc và bấm chuột trái -> nhập trọng số X.
 
-1. Nếu X = "*": tức là tạo cạnh vô hướng.
-2. Nếu X = 0: tức là xóa cạnh.
-3. Nếu X > 0: tức là tạo cạnh có trọng số X.
--Thực hiện nhiệm vụ.
-1. Thao tác xóa, lưu, mở file: di chuột vào ô FILE (góc trái trên cùng màn hình) -> chọn lệnh tương ứng.
+- Nếu X = "*": tức là tạo cạnh vô hướng.
+- Nếu X = 0: tức là xóa cạnh.
+- Nếu X > 0: tức là tạo cạnh có trọng số X.
+
+3. Thực hiện nhiệm vụ.
+* Thao tác xóa, lưu, mở file: di chuột vào ô FILE (góc trái trên cùng màn hình) -> chọn lệnh tương ứng.
 
 ![image](https://user-images.githubusercontent.com/108580228/177124533-1088b4b4-73ea-4c28-96a9-b9d8090c059a.png)
 
-2. Demo các module: di chuột vào ô MENU -> chọn module tương ứng cần demo.
+* Demo các module: di chuột vào ô MENU -> chọn module tương ứng cần demo.
 
  ![image](https://user-images.githubusercontent.com/108580228/177124614-1ae42473-752c-428e-8fbb-7b5f9182f8a4.png)
 
