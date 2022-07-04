@@ -2,13 +2,21 @@
 I ĐỀ BÀI.
 
 Đồ thị: Viết chương trình cho phép:
+
 1- Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa  lại đỉnh, cung, trọng số ( trên màn hình hiển thị ma trận kề tương ứng). Lưu đồ thị vào file sao cho ta có thể vẽ lại đồ thị về sau này.
+
 2- Demo giải thuật DFS, BFS.
+
 3- Tính số thành phần liên thông của đồ thị? Và liệt kê các đỉnh trong từng thành phần liên thông.
+
 4- Tìm đường đi ngắn nhất từ đỉnh X đến đỉnh Y, có demo trên hình và in ra đường đi cụ thể.
+
 5- Tìm tất cả đỉnh trụ , đỉnh thắt và cạnh cầu của đồ thị.
+
 6- Tìm các chu trình Hamilton, và chu trình Euler của đồ thị (nếu có).
+
 7- Demo thuật toán Topo Sort.
+
 II CÁCH DÙNG.
 -Thêm đỉnh: bấm chuột trái 2 lần -> nhập tên đỉnh.
 
