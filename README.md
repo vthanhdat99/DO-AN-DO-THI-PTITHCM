@@ -1,5 +1,6 @@
 
 I ĐỀ BÀI.
+
 Đồ thị: Viết chương trình cho phép:
 1- Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa  lại đỉnh, cung, trọng số ( trên màn hình hiển thị ma trận kề tương ứng). Lưu đồ thị vào file sao cho ta có thể vẽ lại đồ thị về sau này.
 2- Demo giải thuật DFS, BFS.
@@ -10,7 +11,9 @@ I ĐỀ BÀI.
 7- Demo thuật toán Topo Sort.
 II CÁCH DÙNG.
 -Thêm đỉnh: bấm chuột trái 2 lần -> nhập tên đỉnh.
+
 -Thêm cạnh: bấm chuột phải tại đỉnh cần bắt đầu -> chọn TAO CANH -> di chuột đến đỉnh kết thúc và bấm chuột trái -> nhập trọng số X.
+
 1. Nếu X = "*": tức là tạo cạnh vô hướng.
 2. Nếu X = 0: tức là xóa cạnh.
 3. Nếu X > 0: tức là tạo cạnh có trọng số X.
