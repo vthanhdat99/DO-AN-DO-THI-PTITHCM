@@ -1,4 +1,32 @@
+Mục	Nội dung
+I. CÁCH CHẠY CHƯƠNG TRÌNH	
+1. Tải Dev C++	Tải Dev C++ tại đây
+2. Cài thư viện đồ họa cho Dev C++ 64bit	Đường dẫn (Path): C:\Program Files (x86)\Dev-Cpp
+Hướng dẫn cài đặt	
+Bước 1	Copy 2 file graphics.h và winbgim.h vào thư mục (Path)\MinGW64\x86_64-w64-mingw32\include
+Bước 2	Copy file libbgi.a vào thư mục (Path)\MinGW64\x86_64-w64-mingw32\lib
+Bước 3	Vào Tools → Compiler Options → Linker, thêm dòng sau vào Linker settings:
+-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+II. ĐỀ BÀI	
+1. Nhập đồ thị	Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa lại đỉnh, cung, trọng số. (Hiển thị ma trận kề tương ứng).
+2. Demo giải thuật	DFS, BFS
+3. Tính số thành phần liên thông	Liệt kê các đỉnh trong từng thành phần liên thông.
+4. Tìm đường đi ngắn nhất	Từ đỉnh X đến Y, có demo trên hình và in ra đường đi cụ thể.
+5. Tìm đỉnh trụ, đỉnh thắt, cạnh cầu	Xác định các thành phần quan trọng trong đồ thị.
+6. Tìm chu trình	Hamilton và Euler (nếu có).
+7. Demo thuật toán	Topo Sort
+III. CÁCH DÙNG	
+1. Thêm đỉnh	Bấm chuột trái 2 lần → nhập tên đỉnh.
+2. Thêm cạnh	Bấm chuột phải tại đỉnh bắt đầu → chọn TẠO CẠNH → di chuột đến đỉnh kết thúc và bấm chuột trái → nhập trọng số X.
+Quy ước trọng số	X = "*": cạnh vô hướng
+X = 0: xóa cạnh
+X > 0: tạo cạnh có trọng số X
+3. Thực hiện nhiệm vụ	
+Thao tác xóa, lưu, mở file	Di chuột vào ô FILE (góc trái trên cùng) → chọn lệnh tương ứng.
+Demo các module	Di chuột vào ô MENU → chọn module cần demo.
+Hình ảnh minh họa	
 
+Cách trình bày này giúp bạn dễ dàng theo dõi hơn. Nếu bạn muốn chỉnh sửa gì thêm, hãy cho mình biết nhé! 🚀
 I. ĐỀ BÀI.
 
 Đồ thị: Viết chương trình cho phép:
