@@ -1,12 +1,5 @@
 Mục	Nội dung
-I. CÁCH CHẠY CHƯƠNG TRÌNH	
-1. Tải Dev C++[	https://sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/)
-2. Cài thư viện đồ họa cho Dev C++ 64bit	Đường dẫn (Path): C:\Program Files (x86)\Dev-Cpp
-   
-  Bước 1	Copy 2 file graphics.h và winbgim.h vào thư mục (Path)\MinGW64\x86_64-w64-mingw32\include
-  Bước 2	Copy file libbgi.a vào thư mục (Path)\MinGW64\x86_64-w64-mingw32\lib
-  Bước 3	Vào Tools → Compiler Options → Linker, thêm dòng sau vào Linker settings:
-         -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+Đồ án sử dụng thư viện graphics.h
 II. ĐỀ BÀI	
 1. Nhập đồ thị	Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa lại đỉnh, cung, trọng số. (Hiển thị ma trận kề tương ứng).
 2. Demo giải thuật	DFS, BFS
