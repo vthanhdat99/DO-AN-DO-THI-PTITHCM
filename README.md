@@ -1,26 +1,7 @@
 Mục	Nội dung
 
 Đồ án sử dụng thư viện graphics.h
-II. ĐỀ BÀI	
-1. Nhập đồ thị	Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa lại đỉnh, cung, trọng số. (Hiển thị ma trận kề tương ứng).
-2. Demo giải thuật	DFS, BFS
-3. Tính số thành phần liên thông	Liệt kê các đỉnh trong từng thành phần liên thông.
-4. Tìm đường đi ngắn nhất	Từ đỉnh X đến Y, có demo trên hình và in ra đường đi cụ thể.
-5. Tìm đỉnh trụ, đỉnh thắt, cạnh cầu	Xác định các thành phần quan trọng trong đồ thị.
-6. Tìm chu trình	Hamilton và Euler (nếu có).
-7. Demo thuật toán	Topo Sort
-III. CÁCH DÙNG	
-1. Thêm đỉnh	Bấm chuột trái 2 lần → nhập tên đỉnh.
-2. Thêm cạnh	Bấm chuột phải tại đỉnh bắt đầu → chọn TẠO CẠNH → di chuột đến đỉnh kết thúc và bấm chuột trái → nhập trọng số X.
-Quy ước trọng số	X = "*": cạnh vô hướng
-X = 0: xóa cạnh
-X > 0: tạo cạnh có trọng số X
-3. Thực hiện nhiệm vụ	
-Thao tác xóa, lưu, mở file	Di chuột vào ô FILE (góc trái trên cùng) → chọn lệnh tương ứng.
-Demo các module	Di chuột vào ô MENU → chọn module cần demo.
-Hình ảnh minh họa	
 
-Cách trình bày này giúp bạn dễ dàng theo dõi hơn. Nếu bạn muốn chỉnh sửa gì thêm, hãy cho mình biết nhé! 🚀
 I. ĐỀ BÀI.
 
 Đồ thị: Viết chương trình cho phép:
