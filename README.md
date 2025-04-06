@@ -1,4 +1,5 @@
 Mục	Nội dung
+
 Đồ án sử dụng thư viện graphics.h
 II. ĐỀ BÀI	
 1. Nhập đồ thị	Nhập đồ thị có hướng có trọng số qua giao diện, có thể thêm, xóa, sửa lại đỉnh, cung, trọng số. (Hiển thị ma trận kề tương ứng).
